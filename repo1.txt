@@ -4,3 +4,5 @@ We learn java
 We learn selenium
 Cucumber
 Sublime
+JavaScript
+
